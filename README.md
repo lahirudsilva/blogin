@@ -3,9 +3,12 @@ In-house university blogging platform
 
 Team Blogin - 
 
-  @Sachindra2002  
+  @Sachindra2002
+  
   @Topsyanic
+  
   @KanchanaSW
+  
   @TypicalCoderr
 
 
